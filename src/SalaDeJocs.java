@@ -11,26 +11,7 @@ public class SalaDeJocs {
         int age = askForAge();
         getAgeOption(age);
 
-        purchaseTicketNen();
-        purchaseTicketJove();
-        purchaseTicketAdult();
     }
-
-    private static void purchaseTicketNen() {
-
-
-    }
-
-    private static void purchaseTicketJove() {
-
-
-    }
-
-    private static void purchaseTicketAdult() {
-
-
-    }
-
 
     private static int askForAge() {
         System.out.println("Quina edat tens?");
